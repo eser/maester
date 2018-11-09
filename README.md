@@ -1,8 +1,10 @@
-# [maester](https://github.com/eserozvataf/maester)
+# 📜 [maester](https://github.com/eserozvataf/maester)
 
+[![build status][build-image]][build-url]
 [![npm version][npm-image]][npm-url]
 [![npm download][download-image]][npm-url]
 [![dependencies][dep-image]][dep-url]
+[![coverage status][coverage-image]][coverage-url]
 [![license][license-image]][license-url]
 
 
@@ -79,10 +81,14 @@ It is publicly open for any contribution. Bugfixes, new features and extra modul
 [Visit my patreon profile at patreon.com/eserozvataf](https://www.patreon.com/eserozvataf)
 
 
+[build-image]: https://travis-ci.org/eserozvataf/maester.svg?branch=master
+[build-url]: https://travis-ci.org/eserozvataf/maester
 [npm-image]: https://img.shields.io/npm/v/maester.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/maester
 [download-image]: https://img.shields.io/npm/dt/maester.svg?style=flat-square
 [dep-image]: https://img.shields.io/david/eserozvataf/maester.svg?style=flat-square
 [dep-url]: https://github.com/eserozvataf/maester
+[coverage-image]: https://coveralls.io/repos/eserozvataf/maester/badge.svg?branch=master
+[coverage-url]: https://coveralls.io/r/eserozvataf/maester?branch=master
 [license-image]: https://img.shields.io/npm/l/maester.svg?style=flat-square
 [license-url]: https://github.com/eserozvataf/maester/blob/master/LICENSE
