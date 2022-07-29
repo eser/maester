@@ -8,6 +8,12 @@
 [![license][license-image]][license-url]
 
 
+## Update (July 2022)
+
+DEPRECATED in favor of [hex](https://github.com/eserozvataf/hex).
+See https://github.com/eserozvataf/hex for details.
+
+
 ## What is the Maester?
 
 This project is designed for being responsible of all exception handling and logging features that a JavaScript application needs.
